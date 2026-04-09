@@ -23,14 +23,14 @@ repository               : "kayalegrand/kayalegrand.academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "KL_headshot.png"
+  name             : "Kaya LeGrand"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : "University of Connecticut"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kaya.legrand@uconn.edu" 
 
   # Academic websites
   academia         : # URL
